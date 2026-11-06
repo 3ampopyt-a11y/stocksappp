@@ -1,0 +1,6 @@
+{
+  "name": "ApexTrade - Live Real-Time Stock Simulator",
+  "description": "Realistic real-time stock market trading simulator with 100+ stocks, dynamic market crashes, live volatility, portfolio management, and news events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
